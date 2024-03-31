@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "140819805916",
+    "project_id": "teentaaj",
+    "storage_bucket": "teentaaj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140819805916:android:002a5eb345d06c02612619",
+        "android_client_info": {
+          "package_name": "com.example.teentaj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4p25iRIJF1Tg1WIF1Q98Sr00jxuNME4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
